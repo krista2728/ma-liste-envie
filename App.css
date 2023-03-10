@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  justify-content: center;
+  background-color: #D1E8E4;
+  
+}
+
+h1, h2 {
+  color: #0F2C67;
+}
+.btn {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+
+button {
+  background-color: #F05454;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  text-transform: uppercase;
+}
